@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NBA app</string>
+    <string name="players">Players</string>
+    <string name="home">Home</string>
+    <string name="chevron_home">&lt;Home</string>
+    <string name="name">Name</string>
+    <string name="team_name">Atlanta Hawks</string>
+    <string name="team_city">Atlanta</string>
+    <string name="team_conference">East</string>
+    <string name="header_team_name">Name</string>
+    <string name="header_team_city">City</string>
+    <string name="header_team_conference">Conference</string>
+    <string name="header_name">Name</string>
+    <string name="header_city">City</string>
+    <string name="header_conference">Conference</string>
+
+    <string name="home_name_header">Home Name</string>
+    <string name="away_name_header">Away Name</string>
+    <string name="home_score_header">Home Score</string>
+    <string name="away_score_header">Away Score</string>
+    <string name="home_name">Chicago Bulls</string>
+    <string name="away_name">Miami Heat</string>
+    <string name="home_score">105</string>
+    <string name="away_score">132</string>
+
+    <string name="player_name">LeBron</string>
+    <string name="player_surname">James</string>
+    <string name="player_team">Los Angeles Lakers</string>
+    <string name="player_header_name">First Name</string>
+    <string name="player_header_surname">Last Name</string>
+    <string name="player_header_team">Team</string>
+    <string name="player_header_height_ft">Height (ft)</string>
+    <string name="player_header_height_in">Height (in)</string>
+    <string name="player_header_position">Position</string>
+    <string name="player_header_weight">Weight (lb)</string>
+
+    <string name="player_height_ft">7</string>
+    <string name="player_height_in">5</string>
+    <string name="player_position">C</string>
+    <string name="player_weight">185</string>
+    <string name="player_home">Players</string>
+    <string name="search">Search</string>
+</resources>
